@@ -1,5 +1,5 @@
 # qcom-clang-prebuilt-qdevnet
-Qualcomm Clang for Android NDK (QdevNet for HLOS)
+Qualcomm Clang for Android NDK 10.0.0.7 (QdevNet for HLOS)
 
 English:\
 Used to compile Android Kernel on qcom platform, it shows in /proc/version as ( Clang 10.0.0.7 for Android NDK )\
